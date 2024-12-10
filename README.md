@@ -1,0 +1,1 @@
+This Python code demonstrates a simple function to calculate the average of a list of numbers.  It includes error handling for an empty list, preventing a `ZeroDivisionError`. The example shows how to call the function with both an empty list and a list of numbers.
